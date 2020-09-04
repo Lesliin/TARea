@@ -47,6 +47,16 @@ background-size:cover;
 	font-size: 40px;
 
 }
+h2{
+text-align :center;
+text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+		0 0 0.2em #87F
+
+}
+h1{
+	text-decoration: underline wavy red;
+	text-shadow:0 0 0.2em #87F,0 0 0.2em #87F
+}
 
 
 @media screen and (min-width: 480px){
